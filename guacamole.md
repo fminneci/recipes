@@ -1,9 +1,9 @@
 # Ingredients
 - avocado
-- tomato
+- ~~tomato~~
 - lime
 
 # Instructions
 
-Put it *all* in the blender
+Put it *all* in the **blender**
 
