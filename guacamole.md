@@ -1,8 +1,8 @@
 # Ingredients
 Here they are:
-- avocado
-- ~~tomato~~
-- lime
+1. avocado
+1. ~~tomato~~
+1. lime
 
 # Instructions
 
